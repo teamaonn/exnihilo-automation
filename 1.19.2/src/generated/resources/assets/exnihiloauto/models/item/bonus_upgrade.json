@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "exnihiloauto:item/bonus_upgrade"
-  }
-}

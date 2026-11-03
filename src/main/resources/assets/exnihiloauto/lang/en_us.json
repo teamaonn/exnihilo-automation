@@ -1,0 +1,15 @@
+{
+  "itemGroup.exnihiloauto": "Ex Nihilo Automation",
+  "block.exnihiloauto.auto_sieve": "Auto Sieve",
+  "block.exnihiloauto.auto_hammer": "Auto Hammer",
+  "block.exnihiloauto.auto_silker": "Auto Silker",
+  "item.exnihiloauto.speed_upgrade": "Speed Upgrade",
+  "item.exnihiloauto.bonus_upgrade": "Bonus Upgrade",
+  "item.exnihiloauto.reinforced_upgrade": "Reinforced Upgrade",
+  "item.exnihiloauto.reinforced_hammer_wood": "Reinforced Wood Hammer",
+  "item.exnihiloauto.reinforced_hammer_stone": "Reinforced Stone Hammer",
+  "item.exnihiloauto.reinforced_hammer_iron": "Reinforced Iron Hammer",
+  "item.exnihiloauto.reinforced_hammer_gold": "Reinforced Gold Hammer",
+  "item.exnihiloauto.reinforced_hammer_diamond": "Reinforced Diamond Hammer",
+  "item.exnihiloauto.reinforced_hammer_netherite": "Reinforced Netherite Hammer"
+}

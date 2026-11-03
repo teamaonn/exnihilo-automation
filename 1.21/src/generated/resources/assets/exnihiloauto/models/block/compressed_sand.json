@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:block/cube_all",
-  "textures": {
-    "all": "exnihiloauto:block/compressed_sand"
-  }
-}

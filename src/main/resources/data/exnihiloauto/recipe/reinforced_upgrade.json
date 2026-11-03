@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "IRI",
+    "RCR",
+    "IRI"
+  ],
+  "key": {
+    "I": "minecraft:iron_ingot",
+    "R": "minecraft:obsidian",
+    "C": "minecraft:redstone"
+  },
+  "result": {
+    "id": "exnihiloauto:reinforced_upgrade",
+    "count": 1
+  }
+}

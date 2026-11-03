@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "IRI",
+    "RCR",
+    "IRI"
+  ],
+  "key": {
+    "I": "minecraft:iron_ingot",
+    "R": "minecraft:emerald",
+    "C": "minecraft:redstone"
+  },
+  "result": {
+    "id": "exnihiloauto:bonus_upgrade",
+    "count": 1
+  }
+}

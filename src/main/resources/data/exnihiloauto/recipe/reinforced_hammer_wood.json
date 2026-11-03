@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    " O ",
+    "OHO",
+    " O "
+  ],
+  "key": {
+    "O": "minecraft:obsidian",
+    "H": "exnihiloomnia:hammer_wood"
+  },
+  "result": {
+    "id": "exnihiloauto:reinforced_hammer_wood",
+    "count": 1
+  }
+}

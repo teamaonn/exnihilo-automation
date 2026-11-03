@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "id": "exnihiloauto",
+  "version": "${version}",
+  "name": "Ex Nihilo Automation: Omnia",
+  "description": "Automatic sieve, hammer and silker for Ex Nihilo Omnia on Fabric 26.3.",
+  "authors": ["Joshua", "lazynessmind (original mod)"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {"main": ["exnihiloauto.fabric.Automation"], "client": ["exnihiloauto.fabric.AutomationClient"]},
+  "depends": {"fabricloader": ">=0.19.5", "minecraft": "26.3", "java": ">=25", "fabric-api": "*", "exnihiloomnia": ">=0.5.0-alpha.3"}
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "pattern": [
+    "IRI",
+    "RCR",
+    "IRI"
+  ],
+  "key": {
+    "I": "minecraft:iron_ingot",
+    "R": "minecraft:redstone",
+    "C": "exnihiloomnia:sieve_wood"
+  },
+  "result": {
+    "id": "exnihiloauto:auto_sieve",
+    "count": 1
+  }
+}

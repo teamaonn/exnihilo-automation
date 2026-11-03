@@ -1,0 +1,8 @@
+pluginManagement { repositories { maven { url = 'https://maven.fabricmc.net/' }; mavenCentral(); gradlePluginPortal() } }
+rootProject.name = 'exnihilo-automation-fabric-26.3'
+// Use an adjacent Omnia source checkout when present; otherwise supply its release JAR in libs/.
+def omniaDirectory = file('../omnia/fabric-26.3')
+if (omniaDirectory.isDirectory()) {
+    include ':omnia'
+    project(':omnia').projectDir = omniaDirectory
+}
